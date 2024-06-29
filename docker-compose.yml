@@ -5,7 +5,7 @@ services:
       context: .
       dockerfile: Dockerfile
     ports:
-      - 8103:8103
+      - 8005:8005
     volumes:
       - .:/app
       - /app/node_modules
