@@ -1,6 +1,11 @@
+.no-scroll {
+  overflow: hidden;
+}
+
+
 .burger-menu {
     width: 30px;
-    height: 25px;
+    height: 30px;
     display: flex;
     flex-direction: column;
     justify-content: space-between;
